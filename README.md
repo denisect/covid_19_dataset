@@ -1,6 +1,6 @@
 # Process & Manage Covid-19 Dataset
 The task was to **create a software application that can be used to process and manage data related to the COVID-19 observations.**
-
+This work was done for the "Programming for Problem Solving" unit. The structure of the files addresses the assignment requirements.
 
 ## The project's requirements:
 
